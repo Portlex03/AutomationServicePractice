@@ -1,7 +1,7 @@
 # Решение задачи про 3 нефтеперегонных завода
 
 ## Условия задачи:
-![alt text](img/task.png)
+![alt text](logo/task.png)
 
 ## Решение:
 Находится в файле OilRefineries.ipynb
